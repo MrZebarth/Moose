@@ -16,6 +16,6 @@ public class Main {
 		}else {
 			System.out.println((int)(Math.floor(N)));
 		}
+		in.close();
 	}
-
 }
